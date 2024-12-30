@@ -1,0 +1,1 @@
+This repository demonstrates a common error related to the use of the OCCURS DEPENDING ON clause in COBOL programs. The error involves incorrect handling of the array size, leading to potential out-of-bounds errors and program crashes.  The solution provided corrects the error by ensuring proper array size management before processing array elements.
